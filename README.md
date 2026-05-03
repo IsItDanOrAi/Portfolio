@@ -9,4 +9,4 @@ This workflow transforms a minimal user prompt into a fully refined, photorealis
 
 <img width="1818" height="478" alt="image" src="https://github.com/user-attachments/assets/857516d9-284d-468d-bc62-50cea8fc0230" />
 
-[Workflow](https://github.com/IsItDanOrAi/Portfolio/blob/main/Workflows/ISitDan-ZIT%20Generative%20Image%20Refinement%20Stack.json)
+[Workflow]
